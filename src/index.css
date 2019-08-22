@@ -1,0 +1,15 @@
+button {
+  text-decoration: none;
+  background-color: #4b7bec;
+  margin: 0 10px;
+  padding: 0 10px;
+  font-size: 30px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.stopwatch {
+  margin: 0 20px;
+  font-size: 40px;
+  color: #eb3b5a;
+}
